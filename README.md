@@ -52,7 +52,6 @@ figcaption {
 
 <body>
   <div class="body">
-   <span class="definition">
   <h2> What is Metadata? </h2>
   <p>
     Metadata is defined as data that describes other data. It provides extra information and divides it into different contexts.
